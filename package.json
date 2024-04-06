@@ -10,8 +10,17 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@tresjs/nuxt": "^2.1.1",
+    "@vueuse/nuxt": "^10.9.0",
     "nuxt": "^3.11.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@ant-design-vue/nuxt": "^1.4.1",
+    "@unocss/nuxt": "^0.59.0",
+    "@vue-macros/nuxt": "^1.9.28",
+    "nuxt-radash": "^1.0.0",
+    "sass": "^1.74.1"
   }
 }
